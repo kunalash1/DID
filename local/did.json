@@ -6,9 +6,9 @@
   "id": "did:web:raw.githubusercontent.com:kunalash1:DID:refs:heads:main:local",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkoGQWFi5PHhb8zLdq8WeZWrRtiLnf7JE9zhrvaxmemMpc",
+      "publicKeyMultibase": "z6MkrdrkWBrHKnvRonVENb6EWfTBH7pZXeTt3GvtfzQa5Q9t",
       "controller": "did:web:raw.githubusercontent.com:kunalash1:DID:refs:heads:main:local",
-      "id": "did:web:raw.githubusercontent.com:kunalash1:DID:refs:heads:main:local#HKqF41TkM3BfVFt9X65oUv-aQ9HCUAMcLqYZF7mbj3M",
+      "id": "did:web:raw.githubusercontent.com:kunalash1:DID:refs:heads:main:local#p8Udu0E0GI43L0sU-tyyIHIjQahBzzYxAWnVsGJsVrc",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
